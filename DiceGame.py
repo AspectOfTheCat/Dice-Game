@@ -11,7 +11,7 @@ seed(1)
 sequence = [i for i in range(6)]
 for _ in range(1):
         selection = choice(sequence)
-        print(sequence)
+        print(selection)
 
 
 
