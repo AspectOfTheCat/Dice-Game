@@ -18,7 +18,7 @@ else:
     #The seed can be anything, but for the output to be different, the seed has to be different!
     botroll = choice(range(1,6,1))
     print(botroll)
-
+#Finally, done debugging this. This took a while. Enjoy!
 
 
 
