@@ -1,9 +1,9 @@
 roll = input("Roll a 6 sided die, and tell me the number: ")
 
-if roll > 6:
+if int(roll) > 6:
   print("Uh..no..")
   
-elif roll < 1:
+elif int(roll) < 1:
   print("You lost!")
   
 else:
